@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Biscuits",
+    "img": "./images2/biscuits.jpeg",
+    "seller": "pran",
+    "price": "160tk/kg",
+    "ratting": 4
+  },
+  {
+    "id": 2,
+    "name": "Red spice",
+    "img": "./images2/red spice.jpeg",
+    "seller": "pran",
+    "price": "160tk/kg",
+    "ratting": 4
+  },
+  {
+    "id": 3,
+    "name": "Yellow Spice",
+    "img": "./images2/yellow.jpeg",
+    "seller": "pran",
+    "price": "160tk/kg",
+    "ratting": 4
+  }
+]
